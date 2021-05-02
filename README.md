@@ -104,7 +104,9 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
+
 ## R Programming Project 2
+
 ## A pair of functions that cache the inverse of a matrix
 
 
@@ -171,4 +173,3 @@ cacheSolve <- function(x, ...) {
     m
 }
 ```
-
