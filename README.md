@@ -106,6 +106,7 @@ This assignment will be graded via peer assessment.
 
 
 ## R Programming Project 2
+```R
 
 ## A pair of functions that cache the inverse of a matrix
 
